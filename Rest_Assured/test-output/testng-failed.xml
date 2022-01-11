@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Demo.Put_Patch_Delete">
+      <class name="com_rest.Header">
         <methods>
-          <include name="Delete_Method"/>
+          <include name="multipal_headers_using_Heders"/>
         </methods>
-      </class> <!-- Demo.Put_Patch_Delete -->
+      </class> <!-- com_rest.Header -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
